@@ -1,0 +1,29 @@
+ {
+    "title" : "Portfolio",
+    "portfolio" : [
+        {
+           "title" : "Eltas Marble Website ",
+           "content": "Eltas Marble website",
+           "url"   : "http://bit.ly/2CeCR5K",
+           "imgthumb"   : "./img/portfolio/eltas.jpg"     
+        },
+        {
+            "title" : "Deniz Tekstil Website",
+            "content": "Deniz Textile website",
+            "url"   : "http://bit.ly/2pMAjZS",            
+            "imgthumb"   : "./img/portfolio/deniz.jpg"
+        },
+        {
+            "title" : "Tumas Mermer Website",
+            "content": "Tumas Mermer website",
+            "url"   : "http://bit.ly/2pFQoR4",            
+            "imgthumb"   : "./img/portfolio/tumas.jpg"
+        },
+        {
+            "title" : "Demirten Mimarlik Website",
+            "content": "Demirten Mimarlik website",
+            "url"   : "http://bit.ly/2DZ5zIe",            
+            "imgthumb"   : "./img/portfolio/demirten00.jpg"
+        }
+    ]
+ }
